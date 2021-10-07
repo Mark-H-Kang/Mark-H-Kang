@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mark-H-Kang
 - 👀 I’m interested in Application UI Design
-- 🌱 I’m currently learning Sociology, Bigdata
+- 🌱 I’m currently learning Sociology, BigData, UI Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send email kang561@gmail.com
 
